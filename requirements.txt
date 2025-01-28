@@ -1,0 +1,21 @@
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Statistics
+scipy
+
+# Machine learning
+scikit-learn
+torch
+transformers
+
+# Tabular data and Databases
+pandas
+datasets
+
+# for working and visualizing with geo data
+pygeohash
+folium
